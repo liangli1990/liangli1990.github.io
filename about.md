@@ -1,6 +1,6 @@
 ---
-layout: cv
-permalink: /cv/
+layout: about
+permalink: /about/
 title: My CV
 tags: [about]
 modified: 8-7-2014
