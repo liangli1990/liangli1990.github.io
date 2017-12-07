@@ -86,7 +86,7 @@ author:
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I was born in Heilongjiang province, China. Now I am a fifth-year Ph.D. candidate at Shanghai Jiao Tong University"
   location         : "Shanghai"
-  email            :
+  email            : "kdliliang@sjtu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -112,6 +112,15 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
+links:
+  - title: Curriculum
+    url: /cv/
+  - title: Publications
+    url: /publications/
+  - title: Code
+    url: /code/
+  - title: Blog
+    url: /blog/
 
 # Reading Files
 include:
