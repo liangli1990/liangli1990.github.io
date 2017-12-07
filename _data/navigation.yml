@@ -10,11 +10,11 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-  - title: ABOUT ME
+  - title: "ABOUT ME"
     url: /about/
-  - title: Publications
+  - title: :Publications"
     url: /publications/
-  - title: HONORS
+  - title: "HONORS"
     url: /honors/
-  - title: Blog
+  - title: "Blog"
     url: /blog/
