@@ -3,9 +3,9 @@ layout: about
 permalink: /about/
 title: My CV
 tags: [about]
-modified: 8-7-2014
+modified: 8-12-2017
 comments: false
 ---
 
-You can also download my [résumé in PDF](https://www.dropbox.com/s/mfal5tp0q3gnr5t/Resume-PontTuset.pdf?dl=0), or my [full CV](https://www.dropbox.com/s/2ylogbqz07s3cti/CV-PontTuset.pdf?dl=0).
+You can also download my [résumé in PDF](https://drive.google.com/open?id=1HhLlQ_mX2eyq7EdBFcq-c7zkzEG6zW4D).
 
