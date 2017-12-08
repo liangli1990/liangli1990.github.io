@@ -16,20 +16,7 @@
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-        {% include footer/custom.html %}
-        {% include footer.html %}
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
-</html>
-  <article>
+     <article>
     <h1>{{ page.title }}</h1>
     <div class="article-wrap">
     <p align="center" class=bottom-small><img src="{{ site.url }}/images/CV/business.png" alt="Work Experience" width="70" height="70"></p>
@@ -64,15 +51,15 @@
       <section id="disqus_thread"></section><!-- /#disqus_thread -->
     {% endif %}
   </article>
-</div><!-- /#index -->
 
-<div class="footer-wrap">
-  <footer>
-    {% include _footer.html %}
-  </footer>
-</div><!-- /.footer-wrap -->
+    <div class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include footer.html %}
+      </footer>
+    </div>
 
-{% include _scripts.html %}          
+    {% include scripts.html %}
 
-</body>
+  </body>
 </html>
