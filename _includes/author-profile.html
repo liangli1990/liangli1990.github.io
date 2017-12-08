@@ -234,6 +234,12 @@
           </a>
         </li>
       {% endif %}
+	  
+	  {% if author.google_scholar %}
+	    <a href="http://scholar.google.es/citations?user={{ author.google_scholar }}" itemprop="sameAs">
+	      <i class="ai ai-google-scholar-square"></i>&nbsp; G. Scholar
+		</a>
+	  {% endif %}
 
       {% if author.vine %}
         <li>
