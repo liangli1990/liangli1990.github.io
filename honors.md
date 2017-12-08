@@ -3,7 +3,7 @@ layout: page
 permalink: /honors/
 title: Some Code I've Written
 tags: [hornors]
-modified: 3-10-2014
+modified: 8-12-2017
 comments: false
 ---
 
