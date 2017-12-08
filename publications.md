@@ -3,7 +3,7 @@ layout: publications
 permalink: /publications/
 title: My Publications
 tags: [publications]
-modified: 8-7-2014
+modified: 8-12-2017
 comments: false
 ---
 
