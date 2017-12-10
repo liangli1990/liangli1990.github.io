@@ -12,9 +12,9 @@ main:
   #   url: /sitemap/
   - title: About Me
     url: /about/
+  - title: Research
+    url: /research/
   - title: Publications
     url: /publications/
-  - title: Honors
-    url: /honors/
   - title: Blog
     url: /blog/

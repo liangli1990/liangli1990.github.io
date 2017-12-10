@@ -1,9 +1,9 @@
 ---
-layout: post-index
+layout: blog
 permalink: /blog/
-title: All Posts
-tagline: A List of Posts
-tags: [blog]
+title: My Blog
+tags: [bolg]
+modified: 10-12-2017
 comments: false
 ---
 
