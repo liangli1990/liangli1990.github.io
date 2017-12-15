@@ -16,7 +16,7 @@ description              : "Liang Li's personal website."
 url                      : "https://liangli1990.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "liangli1990/liangli1990.github.io"
-teaser                   : "/assets/images/dubaidesert.jpg"
+teaser                   : "/assets/image/dubaidesert.jpg"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
