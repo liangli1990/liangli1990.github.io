@@ -9,7 +9,7 @@
   {% if author.avatar %}
     <div class="author__avatar">
       {% if author.avatar contains "://" %}
-        <img src="{{ author.avatar }}" alt="{{ author.name }}" itemprop="image">
+        <img src="{{ author.avatar }}" alt="{{ author.name }}" width="150" height="150" itemprop="image">
       {% else %}
         <img src="{{ author.avatar | absolute_url }}" class="author__avatar" alt="{{ author.name }}" itemprop="image">
       {% endif %}
